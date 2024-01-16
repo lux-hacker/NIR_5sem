@@ -2,3 +2,4 @@
 .idea/
 malicious_code.csv
 __pycache__/
+config.py
